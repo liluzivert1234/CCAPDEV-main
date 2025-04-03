@@ -1,6 +1,6 @@
 "use client";
 
-import BookingPage from "../../components/booking";
+import BookingPage from "../../components/Booking";
 
 export default function Page() {
   return <BookingPage />;
